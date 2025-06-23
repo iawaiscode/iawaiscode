@@ -1,82 +1,77 @@
-<h1 align="center">Hi there, I'm Awais 👋</h1>
+<h1 align="center">Hey there, I'm Awais 👋</h1>
 
 <p align="center">
-  🚀 Full-Stack web & mobile Developer 🛠️
+  <strong>🚀 Full-Stack Web & Mobile Developer | React Native + Supabase Enthusiast</strong><br/>
+  <em>Crafting sleek, modern, and scalable apps with great UX.</em>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/iawaiscode/">💼 LinkedIn</a> •
+  <a href="https://github.com/iawaiscode">🌐 GitHub</a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
-
-- 🌍 Based in Dubai, passionate about crafting **modern, sleek, full-stack applications**
-- 📱 Building mobile apps with **React Native + Expo**
-- 🌐 Creating web apps with **Next.js** , **TypeScript** , and **TailwindCSS**
-- 🧠 Backend powered by **Supabase**, **Prisma**, **Drizzle**, **PostgreSQL**, and **Firebase**
-- 📸 Coming Soon: [**Spindle**](#) — a social+ecommerce app built with Expo + Supabase
-- 📸 Coming Soon: [**Snacktik**](#) — a food ordering app
-
----
-
-### 🎯 What I'm Doing Now
-
-- 🔨 Building side projects to learn and showcase my skills
-- 🧠 Exploring Web and Mobile development, learning new frameworks and tools every day
-- 💼 Open to **freelance opportunities** or **full-time roles** in web/mobile dev
-
----
-
-### 🛠 Tech Stack
-
-**Frontend:**
-- HTML
-- CSS
-- JavaScript
-- React
-- TailwindCSS
-- NativeWind
-- React Native
-- Expo
-- Next.js
-- TypeScript
-
-**Backend:**
-- Node.js
-- Express
-- Firebase
-- MongoDB
-- Supabase
-- Prisma + PostgreSQL
-- Drizzle + PostgreSQL
-
-**Dev Tools:**
-- Webstorm
-- VSCode
-- Git
-- GitHub
-- Vercel
-- Expo Go + EAS Build
-- Docker
-- Turborepo
-- Prettier
-- ESLint
-- GitHub + Vercel
-
----
-
-### 📢 Let's Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/iawaiscode/)
-
----
-
-### 📈 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iawaiscode&show_icons=true&theme=radical" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=iawaiscode&theme=radical&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iawaiscode&show_icons=true&theme=radical" alt="Awais GitHub Stats" />
 </p>
 
 ---
 
-> 🚀 “Learning in public and building real projects is how I grow.”  
-> Let’s build, share, and level up together!
+## 👨‍💻 About Me
+
+- 🌍 Based in Dubai — passionate about building **beautiful, functional full-stack applications**
+- 📱 Mobile-first mindset with **React Native + Expo** for native experiences
+- 🌐 Web development with **Next.js**, **TypeScript**, and **Tailwind CSS**
+- 🧠 Backends powered by **Supabase**, **Prisma**, **Drizzle**, **PostgreSQL**, and **Firebase**
+- 🚀 I believe in building in public and learning by shipping real projects
+
+---
+
+## 🎯 Current Focus
+
+- 🧩 Developing real-world projects that solve meaningful problems  
+- ✍️ Sharpening my skills with **modern full-stack tools**  
+- 👨‍💻 Open to **freelance projects** and **full-time opportunities**  
+- 🤝 Let's collaborate and build something amazing!
+
+---
+
+## 🔧 Tech Stack
+
+### ⚛️ Frontend
+- `React`, `Next.js`, `React Native`, `Expo`, `TypeScript`
+- `Tailwind CSS`, `NativeWind`, `HTML`, `CSS`, `JavaScript`
+
+### 🔙 Backend
+- `Node.js`, `Express`
+- `Supabase`, `Firebase`, `MongoDB`
+- `Prisma` + `PostgreSQL`, `Drizzle` + `PostgreSQL`
+
+### 🛠 Tools & DevOps
+- `VSCode`, `WebStorm`, `Git`, `GitHub`, `Vercel`
+- `Expo Go`, `EAS Build`, `Turborepo`, `Docker`
+- `Prettier`, `ESLint`
+
+---
+
+## 🚧 Projects in Progress
+
+- **Spindle** – *A social + eCommerce hybrid app*  
+  > Built with React Native, Expo, and Supabase — launching soon
+
+- **Snacktik** – *A modern food ordering experience*  
+  > Powered by Supabase and designed for speed and convenience
+
+## 🤝 Let's Connect
+
+- 📫 Reach out via [LinkedIn](https://www.linkedin.com/in/iawaiscode/)  
+- 🛠 Check out my [GitHub](https://github.com/iawaiscode) for live projects and experiments  
+- 💬 Always up for a tech chat, collab, or feedback
+
+---
+
+> 🧠 *“Learning in public. Shipping real things. Leveling up together.”*  
+> Let’s build something awesome!
