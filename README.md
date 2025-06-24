@@ -9,15 +9,6 @@
   <a href="https://www.linkedin.com/in/iawaiscode/">💼 LinkedIn</a> •
   <a href="https://github.com/iawaiscode">🌐 GitHub</a>
 </p>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iawaiscode&show_icons=true&theme=radical" alt="Awais GitHub Stats" />
-</p>
-
 ---
 
 ## 👨‍💻 About Me
